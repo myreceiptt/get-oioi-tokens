@@ -11,7 +11,7 @@ coverY: -159
 # 💰 Staking The ROTY BROI
 
 {% hint style="danger" %}
-**Warning**: There is a terrible news! Based on the [**ThirdWeb announcement**](https://blog.thirdweb.com/security-vulnerability/), a known vulnerability impacted the smart contract of [**Polygon $OiOi FTs**](https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/polygon-usdoioi-fts) and to mitigate it, [**Prof. NOTA**](https://nota.endhonesa.com/) migrated [**Polygon $OiOi FTs**](https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/polygon-usdoioi-fts) to the new smart contract without that known vulnerability.
+**Warning**: There is a terrible news! Based on the [**ThirdWeb announcement**](https://blog.thirdweb.com/security-vulnerability/), a known vulnerability impacted the smart contract of [**Polygon $OiOi FTs**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/polygon-usdoioi-fts) and to mitigate it, [**Prof. NOTA**](https://nota.endhonesa.com/) migrated [**Polygon $OiOi FTs**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/polygon-usdoioi-fts) to the new smart contract without that known vulnerability.
 
 Please follow all instructions written here.\
 Please don't ignore this!!!!
@@ -481,5 +481,9 @@ After you are done unstake **The ROTY BROI NFTs**, please go to [**Prof. NOTA's 
 If your verification process runs well, your Discord account will be assigned the "**HODLERS**" role so you can access the "**#41-the-roty-broi-✅**" channel. Please mention [**Prof.NOTA**](https://nota.endhonesa.com/) in this channel to claim your **Polygon #OiOi FTs**.
 
 For any question, please drop it in the "**Public Scripts**" channel.
+
+***
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
 
 ***
