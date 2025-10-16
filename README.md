@@ -23,7 +23,7 @@ coverY: -152
 
 #### [The ROTY BROI NFTs](https://docs.endhonesa.com/02-the-creations.../waivfves-1/41.-the-roty-broi)
 
-[**The ROTY BROI**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/41.-the-roty-broi) is a collection of 1047 unique generative and handpicked **NFTs**, that live on the **Polygon** blockchain. One of the benefits for [**The ROTY BROI's holders**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/polygon-usdoioi-fts) is able to stake their **NFT** to get a utility token reward, that is [**The Polygon $OiOi Fungible Tokens**](https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/polygon-usdoioi-fts).
+[**The ROTY BROI**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/41.-the-roty-broi) is a collection of 1047 unique generative and handpicked **NFTs**, that live on the **Polygon** blockchain. One of the benefits for [**The ROTY BROI's holders**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/41.-the-roty-broi) is able to stake their **NFT** to get a utility token reward, that is [**The Polygon $OiOi Fungible Tokens**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/polygon-usdoioi-fts).
 
 > Get [**The ROTY BROI NFTs**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/41.-the-roty-broi), stake it and claim your reward on [**The ROTY BROI staking contract**](staking-the-roty-broi.md).
 >
@@ -100,5 +100,9 @@ Please don't ignore this!!!!
 [**The Ethereum $OiOi FTs**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/ethereum-usdoioi-fts) are utility tokens that have decided to be circulated on the **BASE** blockchain to use within the **OiOi Community** in [**Prof. NOTA's Discord**](https://discord.gg/5KrsT6MbFm). There are only [**47,474,747 $OiOi**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/ethereum-usdoioi-fts) supplies on the **BASE** blockchain and the [**$OiOi FTs**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/ethereum-usdoioi-fts) value is **1 $OiOi \~ 0.747 $ETH \~ 0.0474 $BTC** in [**Prof. NOTA's Discord**](https://discord.gg/5KrsT6MbFm).
 
 > — Source: [**The Ethereum $OiOi FTs**](https://docs.endhonesa.com/02-the-creations.../waivfves-1/ethereum-usdoioi-fts)
+
+***
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
 
 ***
